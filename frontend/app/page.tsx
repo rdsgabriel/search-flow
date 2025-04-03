@@ -15,7 +15,7 @@ const ALL_TERMS = [
   "algoritmos de autocomplete",
   "algoritmos de indexação",
   "algoritmos de cache",
-  "algoritmos de websocket",
+  "algoritmos de blablabla",
 ]
 
 export default function Home() {
